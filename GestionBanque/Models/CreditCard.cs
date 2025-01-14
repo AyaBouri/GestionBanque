@@ -2,11 +2,11 @@
 {
     public class CreditCard
     {
-        private string CardId { get; set; }
-        private string UserId { get; set; }
-        private string CardNumber { get; set; }
-        private DateTime ExpiryDate { get; set; }
-        private decimal CreditLimit { get; set; }
-        private decimal Balance { get; set; }
+        public string CardId { get; set; }
+        public string UserId { get; set; }
+        public string CardNumber { get; set; }
+        public DateTime ExpiryDate { get; set; }
+        public decimal CreditLimit { get; set; }
+        public decimal Balance { get; set; }
     }
 }

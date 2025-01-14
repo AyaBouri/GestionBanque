@@ -2,10 +2,10 @@
 {
     public class Reçu
     {
-        private string ReceiptId { get; set; }
-        private string TransactionId { get; set; }
-        private DateTime DateIssued { get; set; }
-        private decimal Amount { get; set; }
-        private string Description { get; set; } // Exemple: "Dépôt de chèque", "Virement bancaire", etc.
+        public string ReceiptId { get; set; }
+        public string TransactionId { get; set; }
+        public DateTime DateIssued { get; set; }
+        public decimal Amount { get; set; }
+        public string Description { get; set; } // Exemple: "Dépôt de chèque", "Virement bancaire", etc.
     }
 }

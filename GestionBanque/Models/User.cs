@@ -2,14 +2,16 @@
 {
     public class User
     {
-        private string Id { get; set; }
-        private string UserName { get; set; }
-        private string Email { get; set; }
-        private string Phone { get; set; }
-        private string City { get; set; }
-        private string Country { get; set; }
-        private string Gender { get; set; }
-        private string Identity { get; set; }
-        private List<Account> Accounts { get; set; }
+        public string Id { get; set; }
+        public string UserName { get; set; }
+        public string Email { get; set; }
+        public string Phone { get; set; }
+        public string City { get; set; }
+        public string Country { get; set; }
+        public string Gender { get; set; }
+        public string Identity { get; set; }
+        public List<Account> Accounts { get; set; }
+        public string PasswordHash { get; set; }
+        public string Role { get; internal set; }
     }
 }

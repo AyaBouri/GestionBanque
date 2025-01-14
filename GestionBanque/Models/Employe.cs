@@ -2,10 +2,10 @@
 {
     public class Employe
     {
-        private string EmployeeId { get; set; }
-        private string FullName { get; set; }
-        private string Position { get; set; }
-        private string ContactNumber { get; set; }
-        private string BranchId { get; set; }
+        public string EmployeeId { get; set; }
+        public string FullName { get; set; }
+        public string Position { get; set; }
+        public string ContactNumber { get; set; }
+        public string BranchId { get; set; }
     }
 }

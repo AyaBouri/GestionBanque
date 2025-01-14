@@ -2,10 +2,10 @@
 {
     public class Branch
     {
-        private string BranchId { get; set; }
-        private string BankId { get; set; }
-        private string Name { get; set; }
-        private string Address { get; set; }
-        private string ContactNumber { get; set; }
+        public string BranchId { get; set; }
+        public string BankId { get; set; }
+        public string Name { get; set; }
+        public string Address { get; set; }
+        public string ContactNumber { get; set; }
     }
 }

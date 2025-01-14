@@ -2,11 +2,11 @@
 {
     public class Transaction
     {
-        private string TransactionId { get; set; }
-        private string AccountId { get; set; }
-        private decimal Amount { get; set; }
-        private DateTime TransactionDate { get; set; }
-        private string TransactionType { get; set; } // e.g., Deposit, Withdrawal, Transfer
-        private string Description { get; set; }
+        public string TransactionId { get; set; }
+        public string AccountId { get; set; }
+        public decimal Amount { get; set; }
+        public DateTime TransactionDate { get; set; }
+        public string TransactionType { get; set; } // e.g., Deposit, Withdrawal, Transfer
+        public string Description { get; set; }
     }
 }

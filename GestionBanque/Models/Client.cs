@@ -2,6 +2,6 @@
 {
     public class Client:User
     {
-        private string Role { get; set; }
+        public string Role { get; set; }
     }
 }
