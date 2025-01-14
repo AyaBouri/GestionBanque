@@ -2,12 +2,12 @@
 {
     public class prêt_bancaire
     {
-        private string LoanId { get; set; }
-        private string UserId { get; set; }
-        private decimal LoanAmount { get; set; }
-        private decimal InterestRate { get; set; }
-        private DateTime LoanStartDate { get; set; }
-        private DateTime LoanEndDate { get; set; }
-        private bool IsPaid { get; set; }
+        public string LoanId { get; set; }
+        public string UserId { get; set; }
+        public decimal LoanAmount { get; set; }
+        public decimal InterestRate { get; set; }
+        public DateTime LoanStartDate { get; set; }
+        public DateTime LoanEndDate { get; set; }
+        public bool IsPaid { get; set; }
     }
 }

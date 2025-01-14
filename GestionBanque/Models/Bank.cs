@@ -2,11 +2,11 @@
 {
     public class Bank
     {
-        private string BankId { get; set; }
-        private string Name { get; set; }
-        private string Address { get; set; }
-        private string City { get; set; }
-        private string Country { get; set; }
-        private string ContactNumber { get; set; }
+        public string BankId { get; set; }
+        public string Name { get; set; }
+        public string Address { get; set; }
+        public string City { get; set; }
+        public string Country { get; set; }
+        public string ContactNumber { get; set; }
     }
 }
