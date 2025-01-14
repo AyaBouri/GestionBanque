@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GestionBanque\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|d:\\gestionbanque\\gestionbanque\\models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|d:\\gestionbanque\\gestionbanque\\models\\pr\u00EAt_bancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\models\\pr\u00EAt_bancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|d:\\gestionbanque\\gestionbanque\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|d:\\gestionbanque\\gestionbanque\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|d:\\gestionbanque\\gestionbanque\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|d:\\gestionbanque\\gestionbanque\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|d:\\gestionbanque\\gestionbanque\\gestionbanque.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\gestionbanque.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|d:\\gestionbanque\\gestionbanque\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEF4A63-C788-4DF9-A093-BD4297049164}|GestionBanque\\GestionBanque.csproj|solutionrelative:gestionbanque\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employe.cs",
+              "DocumentMoniker": "D:\\GestionBanque\\GestionBanque\\Models\\Employe.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\Models\\Employe.cs",
+              "ToolTip": "D:\\GestionBanque\\GestionBanque\\Models\\Employe.cs*",
+              "RelativeToolTip": "GestionBanque\\Models\\Employe.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:18:21.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pr\u00EAt_bancaire.cs",
+              "DocumentMoniker": "D:\\GestionBanque\\GestionBanque\\Models\\pr\u00EAt_bancaire.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\Models\\pr\u00EAt_bancaire.cs",
+              "ToolTip": "D:\\GestionBanque\\GestionBanque\\Models\\pr\u00EAt_bancaire.cs",
+              "RelativeToolTip": "GestionBanque\\Models\\pr\u00EAt_bancaire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:17:10.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\GestionBanque\\GestionBanque\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\Models\\Transaction.cs",
+              "ToolTip": "D:\\GestionBanque\\GestionBanque\\Models\\Transaction.cs",
+              "RelativeToolTip": "GestionBanque\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:16:12.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\GestionBanque\\GestionBanque\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\Models\\Account.cs",
+              "ToolTip": "D:\\GestionBanque\\GestionBanque\\Models\\Account.cs",
+              "RelativeToolTip": "GestionBanque\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:15:31.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\GestionBanque\\GestionBanque\\Models\\Bank.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\Models\\Bank.cs",
+              "ToolTip": "D:\\GestionBanque\\GestionBanque\\Models\\Bank.cs",
+              "RelativeToolTip": "GestionBanque\\Models\\Bank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:14:35.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\GestionBanque\\GestionBanque\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\Models\\User.cs",
+              "ToolTip": "D:\\GestionBanque\\GestionBanque\\Models\\User.cs",
+              "RelativeToolTip": "GestionBanque\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:11:59.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestionBanque",
+              "DocumentMoniker": "D:\\GestionBanque\\GestionBanque\\GestionBanque.csproj",
+              "RelativeDocumentMoniker": "GestionBanque\\GestionBanque.csproj",
+              "ToolTip": "D:\\GestionBanque\\GestionBanque\\GestionBanque.csproj*",
+              "RelativeToolTip": "GestionBanque\\GestionBanque.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T21:11:32.471Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\GestionBanque\\GestionBanque\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "GestionBanque\\WeatherForecast.cs",
+              "ToolTip": "D:\\GestionBanque\\GestionBanque\\WeatherForecast.cs",
+              "RelativeToolTip": "GestionBanque\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:09:33.027Z",
+              "EditorCaption": ""
             }
           ]
         }
