@@ -1,0 +1,8 @@
+D:\GestionBanque\GestionBanque\obj\Debug\net8.0\GestionBanque.csproj.AssemblyReference.cache
+D:\GestionBanque\GestionBanque\obj\Debug\net8.0\GestionBanque.GeneratedMSBuildEditorConfig.editorconfig
+D:\GestionBanque\GestionBanque\obj\Debug\net8.0\GestionBanque.AssemblyInfoInputs.cache
+D:\GestionBanque\GestionBanque\obj\Debug\net8.0\GestionBanque.AssemblyInfo.cs
+D:\GestionBanque\GestionBanque\obj\Debug\net8.0\GestionBanque.csproj.CoreCompileInputs.cache
+D:\GestionBanque\GestionBanque\obj\Debug\net8.0\GestionBanque.MvcApplicationPartsAssemblyInfo.cs
+D:\GestionBanque\GestionBanque\obj\Debug\net8.0\GestionBanque.MvcApplicationPartsAssemblyInfo.cache
+D:\GestionBanque\GestionBanque\obj\Debug\net8.0\GestionBanque.sourcelink.json
